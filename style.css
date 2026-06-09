@@ -552,11 +552,6 @@ body {
   flex-direction: column;
   gap: 20px;
 }
-.sliced-text-wrap {
-  height: 10px; /* Sets the strict cutoff height */
-  overflow: hidden; /* Slices off the bottom half */
-}
-
 .hidden {
   font-weight: 900;
   font-size: 18px;
