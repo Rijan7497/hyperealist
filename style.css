@@ -405,7 +405,7 @@ body {
   text-transform: uppercase;
 }
 .text-2 {
-  display: flex;
+  display: flex; 
   justify-content: flex-end;
   margin-right: 162px;
   font-size: 56px;
